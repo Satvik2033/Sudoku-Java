@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Sudoku" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddb8dd66-51b0-4adf-9ddf-e493dab7169f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
+  <component name="ProjectId" id="1rslicZjaw85ZbqAUhqUMDphs38" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/College_Notes/BCA_SMS/BCA_Project/project/SUdoku_project/Sudoku/SUdoku_project/SUdoku_project/src/out/artifacts/SUdoku_project_jar/SUdoku_project.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Sudoku" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/out/artifacts/SUdoku_project_jar/SUdoku_project.jar" />
+      <option name="VM_PARAMETERS" value="$JDKPath$" />
+      <option name="PROGRAM_PARAMETERS" value="$JDKPath$" />
+      <option name="WORKING_DIRECTORY" value="D:\Study\College_Notes\BCA_SMS\BCA_Project\project\SUdoku_project\Sudoku\SUdoku_project\SUdoku_project" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="JAVA_HOME" value="C:\Users\satvi\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.3.7-hotspot\" />
+      </envs>
+      <module name="SUdoku_project" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddb8dd66-51b0-4adf-9ddf-e493dab7169f" name="Default Changelist" comment="" />
+      <created>1619772807641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619772807641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SUdoku_project$Sudoku.ic" NAME="Sudoku Coverage Results" MODIFIED="1691686576877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
